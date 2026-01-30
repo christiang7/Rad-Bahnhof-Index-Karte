@@ -14,27 +14,28 @@
 		- [ ] Prototypkarte überarbeiten
 		- [ ] Anleitung dazu machen
     - [ ] Workflow ausarbeiten
-    - [ ] Alma README weiter ausbauen
 - [X] Vorbereitung
-	- [X] Meeting für weiteres Vorgehen 2026-01-30 14:40
-		- [X] Kapazitäten klären
-		- [X] Aufgaben klären
 - [X] Doing
+	- [ ] Elmer
+		- [ ] README weiter ausbauen
+	- [ ] Christian
+		- [ ] Email für nächstes Treffen
+		- [ ] nächstes Meeting mit Britta und Sebastian Fr vorschlagen, ganzen Tag frei, ab 11 Uhr
 
 
 ## Kapazitäten
-Alma 1-2 Std.
+Elmer 1-2 Std.
 
 Christian bis zu 8 Std. 
 
 
 ## Termin mit Britta und Sebastian
-Fr vorschlagen
-ganzen Tag frei
-ab 11 Uhr
 macht Christian
 
 
 - [X] Done
     - [X] Termin finden
 	- [X] auf github veröffentlich
+	- [X] Meeting für weiteres Vorgehen 2026-01-30 14:40
+		- [X] Kapazitäten klären
+		- [X] Aufgaben klären
