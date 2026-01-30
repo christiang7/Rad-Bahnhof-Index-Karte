@@ -18,10 +18,14 @@
 		- [ ] Kapazitäten klären
 		- [ ] Aufgaben klären
 - [X] Doing
-		- [X] Termin finden
 
 
+## Kapazitäten
+Alma 1-2 Std.
+
+Christian bis zu 8 Std. 
 
 
 - [X] Done
+    - [X] Termin finden
 	- [X] auf github veröffentlich
