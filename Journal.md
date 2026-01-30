@@ -13,6 +13,8 @@
 		- [ ] Design überdenken
 		- [ ] Prototypkarte überarbeiten
 		- [ ] Anleitung dazu machen
+    - [ ] Workflow ausarbeiten
+    - [ ] Alma zu github hinzufügen
 - [X] Vorbereitung
 	- [ ] Meeting für weiteres Vorgehen 2026-01-30 14:40
 		- [ ] Kapazitäten klären
