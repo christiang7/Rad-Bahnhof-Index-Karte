@@ -14,11 +14,11 @@
 		- [ ] Prototypkarte überarbeiten
 		- [ ] Anleitung dazu machen
     - [ ] Workflow ausarbeiten
-    - [ ] Alma zu github hinzufügen
+    - [ ] Alam README weiter ausbauen
 - [X] Vorbereitung
-	- [ ] Meeting für weiteres Vorgehen 2026-01-30 14:40
-		- [ ] Kapazitäten klären
-		- [ ] Aufgaben klären
+	- [X] Meeting für weiteres Vorgehen 2026-01-30 14:40
+		- [X] Kapazitäten klären
+		- [X] Aufgaben klären
 - [X] Doing
 
 
@@ -26,6 +26,13 @@
 Alma 1-2 Std.
 
 Christian bis zu 8 Std. 
+
+
+## Termin mit Britta und Sebastian
+Fr vorschlagen
+ganzen Tag frei
+ab 11 Uhr
+macht Christian
 
 
 - [X] Done
