@@ -14,7 +14,7 @@
 		- [ ] Prototypkarte überarbeiten
 		- [ ] Anleitung dazu machen
     - [ ] Workflow ausarbeiten
-    - [ ] Alam README weiter ausbauen
+    - [ ] Alma README weiter ausbauen
 - [X] Vorbereitung
 	- [X] Meeting für weiteres Vorgehen 2026-01-30 14:40
 		- [X] Kapazitäten klären
