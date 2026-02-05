@@ -14,12 +14,20 @@
 		- [ ] Prototypkarte überarbeiten
 		- [ ] Anleitung dazu machen
     - [ ] Workflow ausarbeiten
+	
 - [X] Vorbereitung
 - [X] Doing
 	- [ ] Elmer
 		- [ ] README weiter ausbauen
 	- [ ] nächstes Meeting mit Britta und Sebastian
-		- [ ] 
+    	- [ ] Usecase urbane Plattform Potsdam, SWP, dort mal machen
+    		- [ ] Frank Ansprechpartner Sensorik, Verbindung Hamburg
+      		- [ ] Anna von Berlin
+        - [ ] Jobsuche erwähnen
+     	- [ ] Infrago, Kommune, Nutzung von Datenquellen
+      	- [ ] Masterarbeit Zugänglichkeit
+      	- [ ] daraus Projekt, Nachnutzbar machen, Anleitung, Standardisierung
+      	- [ ] Ort Hackathon Weiterentwicklung, 20.03, 21.03
 
 
 ## Kapazitäten
