@@ -18,9 +18,8 @@
 - [X] Doing
 	- [ ] Elmer
 		- [ ] README weiter ausbauen
-	- [ ] Christian
-		- [ ] Email für nächstes Treffen
-		- [ ] nächstes Meeting mit Britta und Sebastian Fr vorschlagen, ganzen Tag frei, ab 11 Uhr
+	- [ ] nächstes Meeting mit Britta und Sebastian
+		- [ ] 
 
 
 ## Kapazitäten
