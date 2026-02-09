@@ -27,13 +27,30 @@
 	- [ ] nächstes Meeting mit Britta und Sebastian
     	- [ ] Usecase urbane Plattform Potsdam, SWP, dort mal machen
     		- [ ] Frank Ansprechpartner Sensorik, Verbindung Hamburg
-      		- [ ] Anna von Berlin
+      		- [ ] Anna von Berlin Design der Karte
         - [ ] Jobsuche erwähnen
      	- [ ] Infrago, Kommune, Nutzung von Datenquellen
       	- [ ] Masterarbeit Zugänglichkeit
       	- [ ] daraus Projekt, Nachnutzbar machen, Anleitung, Standardisierung
-      	- [ ] Ort Hackathon Weiterentwicklung, 20.03, 21.03
-
+	- Meetup 2026-02-09
+		- **Klimamonitor**
+		- Verkehrswende, Datenplattform
+		- Umsetzung der Maßnahmen bis Ende **2026**
+		- Bahnhof Anschlussmobilität
+		- Radparkbahnhof
+		- Lorawan Datenerhebung
+		- Bewegungssensorik, Klimadaten
+		- DB Infrago 
+			- Inga Schlichting Bahn 
+			- Digitalisierunsrat Ehrenamt
+				- **HumHub**
+			- Datenquelle, Präsentation
+	- Ort Hackathon Weiterentwicklung, 20.03, 21.03 Hauptahnhof
+		- besten Ergebnisse am 19.05 und 20.05 präentiert
+	- Diskussion 26.02. Smart City is watching you 
+	- 09.05 Tag der Wissenschaften
+		- vielleicht dort Ergebnisse teilen, Golm Uni Potsdam 12-18 Uhr
+		- in den 2 Wochen
 
 ## Kapazitäten
 Elmer 1-2 Std.
