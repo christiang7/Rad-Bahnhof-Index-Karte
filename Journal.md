@@ -19,6 +19,11 @@
 - [X] Doing
 	- [ ] Elmer
 		- [ ] README weiter ausbauen
+  		- [X] Fahrraddaten Berlin/Potsdam hochladen
+    	- [ ] S-Bahnhöfe-Daten checken (source?), falls Open Data, auch hochladen
+     	- [ ] Excel hochladen zu Trip Rating Concept
+      	- [X] QGIS project file hochladen
+      	- [ ] 
 	- [ ] nächstes Meeting mit Britta und Sebastian
     	- [ ] Usecase urbane Plattform Potsdam, SWP, dort mal machen
     		- [ ] Frank Ansprechpartner Sensorik, Verbindung Hamburg
