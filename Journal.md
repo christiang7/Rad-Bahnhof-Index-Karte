@@ -26,12 +26,11 @@
 	- [X] Elmer
 		- [ ] README weiter ausbauen
   		- [X] Fahrraddaten Berlin/Potsdam hochladen
-    	- [ ] S-Bahnhöfe-Daten checken (source?), falls Open Data, auch hochladen
-     	- [ ] Excel hochladen zu Trip Rating Concept
-      	- [X] QGIS project file hochladen
-      	- [ ] 
+		- [ ] S-Bahnhöfe-Daten checken (source?), falls Open Data, auch hochladen
+	 	- [ ] Excel hochladen zu Trip Rating Concept
+	  	- [X] QGIS project file hochladen
+	  	- [ ] 
 	- [X] Christian
-		- [ ] Rita anschreiben wegen Terminen und weiteren Meetings, allg Updates
 		- [ ] Frank kontaktieren und weitere Schritte besprechen
 
 ## Meetings
@@ -39,13 +38,13 @@
 		- [ ] was noch so passiert ist beim Meetup
 		- [ ] weitere Schritte besprechen, siehe Vorbereitung und Doing
 	- 2026-02-05 Meeting mit Britta und Sebastian 
-    	- Usecase urbane Plattform Potsdam, SWP, dort mal machen
-    		- Frank Ansprechpartner Sensorik, Verbindung Hamburg
-      		- Anna von Berlin Design der Karte
-        - Jobsuche erwähnen
-     	- Infrago, Kommune, Nutzung von Datenquellen
-      	- Masterarbeit Zugänglichkeit
-      	- daraus Projekt, Nachnutzbar machen, Anleitung, Standardisierung
+		- Usecase urbane Plattform Potsdam, SWP, dort mal machen
+			- Frank Ansprechpartner Sensorik, Verbindung Hamburg
+	  		- Anna von Berlin Design der Karte
+		- Jobsuche erwähnen
+	 	- Infrago, Kommune, Nutzung von Datenquellen
+	  	- Masterarbeit Zugänglichkeit
+	  	- daraus Projekt, Nachnutzbar machen, Anleitung, Standardisierung
 	- 2026-02-09 Meetup Potsdamlab
 		- **Klimamonitor**
 		- Verkehrswende, Datenplattform
