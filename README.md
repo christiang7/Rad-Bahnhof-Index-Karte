@@ -3,9 +3,9 @@ MMA ist eine Methode und ein Tool zur Beurteilung der Qualität multimodaler Rei
 
 Allerdings ist Fahrradfahren hin und von Bahnhöfen nicht einwandfrei: ein chaotisches Bahnhofsumfeld mit viel Autoverkehr und unsichere Fahrradinfrastruktur, unsichere oder überfüllte Radabstellplätze, fehlende oder kaputte Aufzüge hindern gerade diese Rad+ÖPNV-Wege. Multimodales Reisen kann besser! In der Wissenschaft ist dies schon länger bekannt und auch in der öffentlichen Hand erscheint diese Vision zunehmend selbstverständlich. Die EU-Kommission hat in ihrem Forschungsprogramm Horizon Europe und Ziel festgesetzt:
 
-_**Multimodal and sustainable transport systems for passengers and goods**:
-Enhanced resilience of transport networks through improved operational efficiency for both passenger and intermodal freight transport, future-proofed mobility systems supporting EU competitiveness while ensuring affordable and accessible transport for all passengers.
-_
+**Multimodal and sustainable transport systems for passengers and goods**:
+> Enhanced resilience of transport networks through improved operational efficiency for both passenger and intermodal freight transport, future-proofed mobility systems supporting EU competitiveness while ensuring affordable and accessible transport for all passengers.
+
 
 Doch wo fangen wir an umzusetzen - welche Daten und Informationen gibt es zu diesem Zweck, und welche brauchen wir eigentlich, damit ein Weg mit Rad und Bahn genau die richtige Art von Abenteuer ist?
 
