@@ -21,7 +21,7 @@ Ein Prototyp wurde entwickelt beim Rad-Daten-Hackathon im November 2025 in Potsd
 
 Zum jetzigen Zeitpunkt ist MMA als statisches Web-App abrufbar. Wir haben viele Ideen zur Weiterentwicklung, und freuen uns über Unterstützung jeglicher Art bei der Weiterentwicklung!
 
-![Tool](./docs/index.html)
+![Tool](https://christiang7.github.io/Rad-Bahnhof-Index-Karte/)
 
 Mehr zu unserer Idee:
 ![Pitch](./MMA_Rad-Bhf-Index_Elevator-Pitch.png)
