@@ -21,6 +21,8 @@
 	- [ ] 09.05 Tag der Wissenschaften
 		- vielleicht dort Ergebnisse teilen, Golm Uni Potsdam 12-18 Uhr
 		- in den 2 Wochen melden
+	- [ ] 14 Uhr am Montag
+	- [ ] Excel, welche Daten sind wichtig und Kriterien für welche Daten
 
 - [X] **Doing**
 	- [X] Elmer
@@ -31,20 +33,14 @@
 	  	- [X] QGIS project file hochladen
 	  	- [ ] 
 	- [X] Christian
-		- [ ] Frank kontaktieren und weitere Schritte besprechen
+		- [X] Frank kontaktieren und weitere Schritte besprechen
 
-## Meetings
+## Meetings 
+- 
 	- 2026-02-13 14 Uhr Meeting Updates
 		- [ ] was noch so passiert ist beim Meetup
+		- [ ] nicht bei Hackathon Elmer
 		- [ ] weitere Schritte besprechen, siehe Vorbereitung und Doing
-	- 2026-02-05 Meeting mit Britta und Sebastian 
-		- Usecase urbane Plattform Potsdam, SWP, dort mal machen
-			- Frank Ansprechpartner Sensorik, Verbindung Hamburg
-	  		- Anna von Berlin Design der Karte
-		- Jobsuche erwähnen
-	 	- Infrago, Kommune, Nutzung von Datenquellen
-	  	- Masterarbeit Zugänglichkeit
-	  	- daraus Projekt, Nachnutzbar machen, Anleitung, Standardisierung
 	- 2026-02-09 Meetup Potsdamlab
 		- **Klimamonitor**
 		- Verkehrswende, Datenplattform
@@ -58,6 +54,14 @@
 			- Digitalisierunsrat Ehrenamt
 				- **HumHub**
 			- Datenquelle, Präsentation
+	- 2026-02-05 Meeting mit Britta und Sebastian 
+		- Usecase urbane Plattform Potsdam, SWP, dort mal machen
+			- Frank Ansprechpartner Sensorik, Verbindung Hamburg
+	  		- Anna von Berlin Design der Karte
+		- Jobsuche erwähnen
+	 	- Infrago, Kommune, Nutzung von Datenquellen
+	  	- Masterarbeit Zugänglichkeit
+	  	- daraus Projekt, Nachnutzbar machen, Anleitung, Standardisierung
 	- [X] 2026-01-30 14:40 Meeting für weiteres Vorgehen 
 		- [X] Kapazitäten klären
 		- [X] Aufgaben klären
