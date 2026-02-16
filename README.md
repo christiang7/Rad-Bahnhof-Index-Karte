@@ -37,7 +37,7 @@ $$ {\color{teal}I} = \frac{({\color{green}M}-{\color{gray}x})}{{\color{green}M}}
 
 Das ${\color{green}M}$ - maximaler Wert der Datenreihe, sollte dann ersetzt werden mit einer Kombination aus Nachfrage und Angebot der Bahnhöfe. Zum Schluss wurde dann der Gesamtindex durch eine Mittelwertberechnung ermittelt:
 
-${\color{teal}I}_ {\color{red}k}$ - Indizes, ${\color{green}N}_{\color{red}I}$ - Gesamtanzahl an Indizes, 
+${\color{teal}I}_ {\color{red}k}$ - Indizes, ${\color{green}N}_{\color{red}I}$ - Gesamtanzahl an Indizes, ${\color{teal}I} _{\color{red}G}$ - Gesamtindex 
 
 $$ I_G = \frac{(I_1 + I_2 + ... I_N)}{N_I} .$$
 
