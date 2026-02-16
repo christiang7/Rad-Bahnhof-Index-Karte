@@ -35,7 +35,7 @@ Der Indexwert $\boldsymbol{\color{teal}I}$ liegt zwischen $\boldsymbol{[0, 1]}$,
 
 $$ \boldsymbol{ {\color{teal}I} = \frac{({\color{green}M}-{\color{gray}x})}{{\color{green}M}} }.$$
 
-Das $\boldsymbol{\color{green}M}$ - maximaler Wert der Datenreihe, sollte dann ersetzt werden mit einer Kombination aus Nachfrage und Angebot der Bahnhöfe. Zum Schluss wurde dann der Gesamtindex durch eine Mittelwertberechnung ermittelt:
+Das $\boldsymbol{\color{green}M}$ - maximaler Wert der Datenreihe, sollte dann ersetzt werden mit einer Kombination aus Nachfrage und Angebot der Bahnhöfe. Zum Schluss wurde dann der Gesamtindex $\boldsymbol{{\color{teal}I}_ {\color{red}G} }$ durch eine Mittelwertberechnung ermittelt:
 
 $\boldsymbol{ {\color{teal}I}_ {\color{red}k}}$ - Indizes, $\boldsymbol{\color{green}N}$ - Gesamtanzahl an Indizes, $\boldsymbol{{\color{teal}I}_ {\color{red}G} }$ - Gesamtindex 
 
