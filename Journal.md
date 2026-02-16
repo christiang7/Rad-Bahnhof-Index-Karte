@@ -36,7 +36,13 @@
 ## Meetings 
 - 
 	- 2026-02-16 Meeting 14 Uhr am Montag
-		- [ ] 
+		- [ ] Daten für Potsdam
+		- [ ] Plattform Themenkachel, urbane Plattform
+			- [ ] eigener Bereich gestalten
+		- [ ] open station api europäischer Standard
+		- [ ] Delphikonferenz für Datenstandard
+		- [ ] leaflet openstreetmap
+		- [ ] masterportal daten
 	- 2026-02-13 14 Uhr Meeting Updates
 		- [X] was noch so passiert ist beim Meetup
 		- [X] Elmer nicht bei Hackathon
