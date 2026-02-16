@@ -41,15 +41,15 @@ $\boldsymbol{ {\color{teal}I}_ {\color{red}k}}$ - Indizes, $\boldsymbol{\color{g
 
 $$\boldsymbol{ {\color{teal}I}_ {\color{red}G} = \frac{({\color{teal}I}_ 1 + {\color{teal}I}_ 2 + ... + {\color{teal}I}_ {\color{red}N})}{{\color{green}N}} }.$$
 
-Der Gesamtindex ${\color{teal}I}_ {\color{red}G}$ sollte dann später gewichtet werden nach bestimmten Kriterien mit den Gewichtungsfaktoren:
+Der Gesamtindex $\boldsymbol{{\color{teal}I}_ {\color{red}G}}$ sollte dann später gewichtet werden nach bestimmten Kriterien mit den Gewichtungsfaktoren:
 
-${\color{green}g}_ {\color{red}k}$ - Gewichtungsfaktoren
+$\boldsymbol{{\color{green}g}_ {\color{red}k}}$ - Gewichtungsfaktoren
 
-$$ {\color{teal}I}_ {\color{red}G} = \frac{({\color{teal}I}_ {1} {\color{green}g}_ 1 + {\color{teal}I}_ 2 {\color{green}g}_ 2 + ... + {\color{teal}I}_ {\color{red}N} {\color{green}g}_ {\color{red}N})}{{\color{green}N}}$$
+$$\boldsymbol{ {\color{teal}I}_ {\color{red}G} = \frac{({\color{teal}I}_ {1} {\color{green}g}_ 1 + {\color{teal}I}_ 2 {\color{green}g}_ 2 + ... + {\color{teal}I}_ {\color{red}N} {\color{green}g}_ {\color{red}N})}{{\color{green}N}} }$$
 
 mit
 
-$$ {\color{green}g}_ 1 + {\color{green}g}_ 2 + ... + {\color{green}g}_ {\color{red}N} = 1 .$$
+$$\boldsymbol{ {\color{green}g}_ 1 + {\color{green}g}_ 2 + ... + {\color{green}g}_ {\color{red}N} = 1 }.$$
 
 ## Visualisierung
 Mehr zu unserer Idee:
