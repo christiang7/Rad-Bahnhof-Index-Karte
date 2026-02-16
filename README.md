@@ -31,7 +31,7 @@ ${\color{teal}I}$ - Index, ${\color{gray}x}$ - Datenpunkt, ${\color{green}M}$ - 
 
 $$ {\color{teal}I} = \frac{{\color{gray}x}}{{\color{green}M}} .$$
 
-Der Indexwert $I$ liegt zwischen $[0, 1]$, d.h. von $0$ bis $100$ Prozent. Maximalwert $1$ ist der Optimalwert und Minimalwert $0$ ist der schlechteste Wert. Bei Datenreihen, wo der maximale Wert, von der Interpretation her der schlechteste ist, haben wir die Datenpunkte umgekehrt berechnet:
+Der Indexwert $I$ liegt zwischen $[0, 1]$, d.h. von $0$ bis $100$ Prozent. Maximalwert $1$ ist der Optimalwert und Minimalwert $0$ ist der schlechteste Wert. Bei Datenreihen, wo der maximale Wert, von der Interpretation her der schlechteste ist wie z.B. beim Diebstahl, haben wir die Datenpunkte umgekehrt berechnet:
 
 $$ {\color{teal}I} = \frac{({\color{green}M}-{\color{gray}x})}{{\color{green}M}} .$$
 
@@ -41,7 +41,7 @@ ${\color{teal}I}_ {\color{red}k}$ - Indizes, ${\color{green}N}_ {\color{red}I}$ 
 
 $$ {\color{teal}I}_ {\color{red}G} = \frac{({\color{teal}I}_ 1 + {\color{teal}I}_ 2 + ... + {\color{teal}I}_ {\color{red}N})}{{\color{green}N}_ {\color{red}I}} .$$
 
-Der Gesamtindex $I_G$ sollte dann später gewichtet werden nach bestimmten Kriterien mit den Gewichtungsfaktoren:
+Der Gesamtindex ${\color{teal}I}_ {\color{red}G}$ sollte dann später gewichtet werden nach bestimmten Kriterien mit den Gewichtungsfaktoren:
 
 ${\color{green}g}_ {\color{red}k}$ - Gewichtungsfaktoren
 
