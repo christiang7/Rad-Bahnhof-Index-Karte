@@ -27,9 +27,9 @@ Zum jetzigen Zeitpunkt ist MMA als statisches Web-App abrufbar. Wir haben viele 
 
 Der Index wird einfache Prozentrechnung wie folgt berechnet:
 
-${\color{cyan}I}$ - Index, $x$ - Datenpunkt, $M$ - maximaler Wert der Datenreihe
+${\color{teal}I}$ - Index, ${\color{gray}x}$ - Datenpunkt, ${\color{green}M}$ - maximaler Wert der Datenreihe
 
-$$ I = \frac{x}{M} .$$
+$$ {\color{teal}I} = \frac{{\color{gray}x}}{{\color{green}M}} .$$
 
 Der Indexwert $I$ liegt zwischen $[0, 1]$, d.h. von $0$ bis $100$ Prozent. Maximalwert $1$ ist der Optimalwert und Minimalwert $0$ ist der schlechteste Wert. Bei Datenreihen, wo der maximale Wert, von der Interpretation her der schlechteste ist, haben wir die Datenpunkte umgekehrt berechnet:
 
