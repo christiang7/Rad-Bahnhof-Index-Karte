@@ -31,7 +31,7 @@ $\boldsymbol{\color{teal}I}$ - Index, $\boldsymbol{\color{gray}x}$ - Datenpunkt,
 
 $$ \boldsymbol{{\color{teal}I} = \frac{{\color{gray}x}}{{\color{green}M}} }.$$
 
-Der Indexwert $\boldsymbol{\color{teal}I}$ liegt zwischen $\boldsymbol{[0, 1]}$, d.h. von $\boldsymbol 0$ bis $\boldsymbol{100}$ Prozent. Maximalwert $\boldsymbol 1$ ist der Optimalwert und Minimalwert $\boldsymbol 0$ ist der schlechteste Wert. Bei Datenreihen, wo der maximale Wert, von der Interpretation her der schlechteste ist wie z.B. beim Diebstahl, haben wir die Datenpunkte umgekehrt berechnet:
+Der Indexwert $\boldsymbol{\color{teal}I}$ liegt zwischen $\boldsymbol{[0, 1]}$, d.h. von $\boldsymbol 0$ bis $\boldsymbol{100}$ Prozent. Maximalwert $\boldsymbol 1$ ist der Optimalwert und Minimalwert $\boldsymbol 0$ ist der schlechteste Wert. Bei Datenreihen, wo der maximale Wert, von der Interpretation her der schlechteste Wert ist wie z.B. beim Diebstahl, haben wir die Datenpunkte umgekehrt berechnet:
 
 $$ \boldsymbol{ {\color{teal}I} = \frac{({\color{green}M}-{\color{gray}x})}{{\color{green}M}} }.$$
 
