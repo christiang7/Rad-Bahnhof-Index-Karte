@@ -39,14 +39,15 @@ Das $M$ - maximaler Wert der Datenreihe, sollte dann ersetzt werden mit einer Ko
 
 $I_k$ - Indizes, $N_I$ - Gesamtanzahl an Indizes 
 
-$$ I = \frac{(I_1 + I_2 + ... I_N)}{N_I} $$
+$$ I_G = \frac{(I_1 + I_2 + ... I_N)}{N_I} $$
 
-Der Gesamtindex sollte dann später gewichtet werden nach bestimmten Kriterien mit den Gewichtungsfaktoren:
+Der Gesamtindex $I_G$ sollte dann später gewichtet werden nach bestimmten Kriterien mit den Gewichtungsfaktoren:
 
-g_k - Gewichtungsfaktoren
+$g_k$ - Gewichtungsfaktoren
 
-I_Gesamt = (I_1*g_1 + I_2*g_2 + ... I_N*g_N) / N_I mit g_1 + g_2 + ... g_N = 1
+$$ I_G = \frac{(I_1g_1 + I_2g_2 + ... I_Ng_N)}{N_I} $$
 
+$$ g_1 + g_2 + ... g_N = 1$$
 
 I = z/N*g
 I = (x-mu)/(sigma*N)*g
