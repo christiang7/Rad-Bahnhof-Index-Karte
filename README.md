@@ -51,11 +51,6 @@ mit
 
 $$ g_1 + g_2 + ... g_N = 1$$
 
-
-
-
-
-
 Mehr zu unserer Idee:
 ![Pitch](./MMA_Rad-Bhf-Index_Elevator-Pitch.png)
 
