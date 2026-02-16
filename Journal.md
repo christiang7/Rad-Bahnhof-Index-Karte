@@ -21,6 +21,7 @@
 	- [ ] 09.05 Tag der Wissenschaften
 		- vielleicht dort Ergebnisse teilen, Golm Uni Potsdam 12-18 Uhr
 		- in den 2 Wochen melden
+	- [ ] Rad Index auf urbane Plattform veröffentlichen bei Frank
 
 - [X] **Doing**
 	- [X] Elmer
@@ -74,9 +75,9 @@
 
 ## Done
 - [X] Done
+	- [X] 2026-02-16 Indexberechnung auf github
 	- [X] auf github veröffentlich
 	- [X] Kontakte aufnehmen zur weiteren Zusammenarbeit
-	- [X] 2026-02-16 Indexberechnung auf github
 
 ## Kapazitäten
 Elmer 1-2 Std.
