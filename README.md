@@ -29,17 +29,17 @@ Der Index wird wie folgt berechnet:
 
 $I$ - Index, $x$ - Datenpunkt, $M$ - maximaler Wert der Datenreihe
 
-$$ I = x / M $$
+$$ I = \frac{x}{M} $$
 
 Bei Datenreihen, wo der maximale Wert, von der Interpretation her der schlechteste ist, haben wir die Datenpunkte umgekehrt berechnet:
 
-I = (M - x) / M
+$$ I = \frac{(M-x)}{M} $$
 
-Das M - maximaler Wert der Datenreihe, sollte dann ersetzt werden mit einer Kombination aus Nachfrage und Angebot der Bahnhöfe. Zum Schluss wurde dann der Gesamtindex durch eine Mittelwertberechnung ermittelt:
+Das $M$ - maximaler Wert der Datenreihe, sollte dann ersetzt werden mit einer Kombination aus Nachfrage und Angebot der Bahnhöfe. Zum Schluss wurde dann der Gesamtindex durch eine Mittelwertberechnung ermittelt:
 
-I_k - Indizes, N_I - Gesamtanzahl an Indizes 
+$I_k$ - Indizes, $N_I$ - Gesamtanzahl an Indizes 
 
-I_Gesamt = (I_1 + I_2 + ... I_N) / N_I
+$$ I = \frac{(I_1 + I_2 + ... I_N)}{N_I} $$
 
 Der Gesamtindex sollte dann später gewichtet werden nach bestimmten Kriterien mit den Gewichtungsfaktoren:
 
