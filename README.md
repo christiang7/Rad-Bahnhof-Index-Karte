@@ -23,6 +23,44 @@ Zum jetzigen Zeitpunkt ist MMA als statisches Web-App abrufbar. Wir haben viele 
 
 ![Tool](https://christiang7.github.io/Rad-Bahnhof-Index-Karte/)
 
+## Formel zur Indexberechnung
+
+Der Index wird wie folgt berechnet:
+
+$I$ - Index, $x$ - Datenpunkt, $M$ - maximaler Wert der Datenreihe
+
+$$ I = x / M $$
+
+Bei Datenreihen, wo der maximale Wert, von der Interpretation her der schlechteste ist, haben wir die Datenpunkte umgekehrt berechnet:
+
+I = (M - x) / M
+
+Das M - maximaler Wert der Datenreihe, sollte dann ersetzt werden mit einer Kombination aus Nachfrage und Angebot der Bahnhöfe. Zum Schluss wurde dann der Gesamtindex durch eine Mittelwertberechnung ermittelt:
+
+I_k - Indizes, N_I - Gesamtanzahl an Indizes 
+
+I_Gesamt = (I_1 + I_2 + ... I_N) / N_I
+
+Der Gesamtindex sollte dann später gewichtet werden nach bestimmten Kriterien mit den Gewichtungsfaktoren:
+
+g_k - Gewichtungsfaktoren
+
+I_Gesamt = (I_1*g_1 + I_2*g_2 + ... I_N*g_N) / N_I mit g_1 + g_2 + ... g_N = 1
+
+
+I = z/N*g
+I = (x-mu)/(sigma*N)*g
+Gesamtindex
+I_G = Summe(I_k)/M
+
+Maximalwert ist der Optimalwert
+Minimalwert ist der schlechteste Wert
+falls höchster Wert der schlechteste ist, dann mit Formel
+z_neu = N - z 
+Tabelle Format
+Wert | I_1 | I_2 | I_3 | I_4 | … | I_G 
+
+
 Mehr zu unserer Idee:
 ![Pitch](./MMA_Rad-Bhf-Index_Elevator-Pitch.png)
 
