@@ -25,13 +25,13 @@ Zum jetzigen Zeitpunkt ist MMA als statisches Web-App abrufbar. Wir haben viele 
 
 ## Formel zur Indexberechnung
 
-Der Index wird wie folgt berechnet:
+Der Index wird einfache Prozentrechnung wie folgt berechnet:
 
 $I$ - Index, $x$ - Datenpunkt, $M$ - maximaler Wert der Datenreihe
 
 $$ I = \frac{x}{M} $$
 
-Bei Datenreihen, wo der maximale Wert, von der Interpretation her der schlechteste ist, haben wir die Datenpunkte umgekehrt berechnet:
+Der Indexwert $I$ liegt zwischen $[0, 1]$, d.h. von $0 = 0\%$ bis $ 1 = 100\%$. Maximalwert $1$ ist der Optimalwert und Minimalwert $0$ ist der schlechteste Wert. Bei Datenreihen, wo der maximale Wert, von der Interpretation her der schlechteste ist, haben wir die Datenpunkte umgekehrt berechnet:
 
 $$ I = \frac{(M-x)}{M} $$
 
@@ -47,19 +47,13 @@ $g_k$ - Gewichtungsfaktoren
 
 $$ I_G = \frac{(I_1g_1 + I_2g_2 + ... I_Ng_N)}{N_I} $$
 
+mit
+
 $$ g_1 + g_2 + ... g_N = 1$$
 
-I = z/N*g
-I = (x-mu)/(sigma*N)*g
-Gesamtindex
-I_G = Summe(I_k)/M
 
-Maximalwert ist der Optimalwert
-Minimalwert ist der schlechteste Wert
-falls höchster Wert der schlechteste ist, dann mit Formel
-z_neu = N - z 
-Tabelle Format
-Wert | I_1 | I_2 | I_3 | I_4 | … | I_G 
+
+
 
 
 Mehr zu unserer Idee:
