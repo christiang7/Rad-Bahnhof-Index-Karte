@@ -39,7 +39,7 @@ Das ${\color{green}M}$ - maximaler Wert der Datenreihe, sollte dann ersetzt werd
 
 ${\color{teal}I}_ {\color{red}k}$ - Indizes, ${\color{green}N}_ {\color{red}I}$ - Gesamtanzahl an Indizes, ${\color{teal}I}_ {\color{red}G}$ - Gesamtindex 
 
-$$ I_G = \frac{(I_1 + I_2 + ... I_N)}{N_I} .$$
+$$ {\color{teal}I}_ {\color{red}G} = \frac{({\color{teal}I}_ 1 + {\color{teal}I}_ 2 + ... {\color{teal}I}_ {\color{red}N})}{{\color{green}N}_ {\color{red}I}} .$$
 
 Der Gesamtindex $I_G$ sollte dann später gewichtet werden nach bestimmten Kriterien mit den Gewichtungsfaktoren:
 
