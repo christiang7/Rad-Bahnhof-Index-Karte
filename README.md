@@ -33,11 +33,11 @@ $$ {\color{teal}I} = \frac{{\color{gray}x}}{{\color{green}M}} .$$
 
 Der Indexwert $I$ liegt zwischen $[0, 1]$, d.h. von $0$ bis $100$ Prozent. Maximalwert $1$ ist der Optimalwert und Minimalwert $0$ ist der schlechteste Wert. Bei Datenreihen, wo der maximale Wert, von der Interpretation her der schlechteste ist, haben wir die Datenpunkte umgekehrt berechnet:
 
-$$ I = \frac{(M-x)}{M} .$$
+$$ {\color{teal}I} = \frac{({\color{green}M}-{\color{gray}x})}{{\color{green}M}} .$$
 
-Das $M$ - maximaler Wert der Datenreihe, sollte dann ersetzt werden mit einer Kombination aus Nachfrage und Angebot der Bahnhöfe. Zum Schluss wurde dann der Gesamtindex durch eine Mittelwertberechnung ermittelt:
+Das ${\color{green}M}$ - maximaler Wert der Datenreihe, sollte dann ersetzt werden mit einer Kombination aus Nachfrage und Angebot der Bahnhöfe. Zum Schluss wurde dann der Gesamtindex durch eine Mittelwertberechnung ermittelt:
 
-$I_k$ - Indizes, $N_I$ - Gesamtanzahl an Indizes 
+${\color{teal}I}_{\color{red}k}$ - Indizes, ${\color{green}N}_{\color{red}I}$ - Gesamtanzahl an Indizes, 
 
 $$ I_G = \frac{(I_1 + I_2 + ... I_N)}{N_I} .$$
 
@@ -45,7 +45,7 @@ Der Gesamtindex $I_G$ sollte dann später gewichtet werden nach bestimmten Krite
 
 $g_k$ - Gewichtungsfaktoren
 
-$$ I_G = \frac{(I_1g_1 + I_2g_2 + ... I_Ng_N)}{N_I} $$
+$$ I_G = \frac{(I_{1}g_1 + I_{2}g_2 + ... I_{N}g_N)}{N_I} $$
 
 mit
 
