@@ -25,24 +25,24 @@
 - [X] **Doing**
 	- [X] Elmer
 		- [ ] README weiter ausbauen
-  		- [X] Fahrraddaten Berlin/Potsdam hochladen
+		- [X] Fahrraddaten Berlin/Potsdam hochladen
 		- [ ] S-Bahnhöfe-Daten checken (source?), falls Open Data, auch hochladen
-	 	- [ ] Excel hochladen zu Trip Rating Concept
-	  	- [X] QGIS project file hochladen
-	  	- [ ] 
+		- [ ] Excel hochladen zu Trip Rating Concept
+		- [X] QGIS project file hochladen
+		- [ ] 
 	- [X] Christian
 		- [ ] ``TripRatingConcept_MMA.xlsx``, welche Daten sind wichtig und Kriterien für welche Daten
 
 ## Meetings 
 - 
 	- 2026-02-16 Meeting 14 Uhr am Montag
-		- [ ] Daten für Potsdam
-		- [ ] Plattform Themenkachel, urbane Plattform
-			- [ ] eigener Bereich gestalten
-		- [ ] open station api europäischer Standard
-		- [ ] Delphikonferenz für Datenstandard
-		- [ ] leaflet openstreetmap
-		- [ ] masterportal daten
+		- Daten für Potsdam
+		- Plattform Themenkachel, urbane Plattform
+			- eigener Bereich gestalten
+		- open station api europäischer Standard
+		- Delphikonferenz für Datenstandard
+		- leaflet openstreetmap
+		- masterportal daten
 	- 2026-02-13 14 Uhr Meeting Updates
 		- [X] was noch so passiert ist beim Meetup
 		- [X] Elmer nicht bei Hackathon
@@ -76,6 +76,7 @@
 - [X] Done
 	- [X] auf github veröffentlich
 	- [X] Kontakte aufnehmen zur weiteren Zusammenarbeit
+	- [X] 2026-02-16 Indexberechnung auf github
 
 ## Kapazitäten
 Elmer 1-2 Std.
