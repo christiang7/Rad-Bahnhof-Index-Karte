@@ -43,9 +43,9 @@ $$ {\color{teal}I}_ {\color{red}G} = \frac{({\color{teal}I}_ 1 + {\color{teal}I}
 
 Der Gesamtindex $I_G$ sollte dann später gewichtet werden nach bestimmten Kriterien mit den Gewichtungsfaktoren:
 
-$g_k$ - Gewichtungsfaktoren
+${\color{green}g}_ {\color{red}k}$ - Gewichtungsfaktoren
 
-$$ I_G = \frac{(I_{1}g_1 + I_{2}g_2 + ... I_{N}g_N)}{N_I} $$
+$$ I_G = \frac{(I_{1} g_1 + I_{2} g_2 + ... I_{N} g_N)}{N_I} {\color{teal}I}_ {\color{red}G} = \frac{({\color{teal}I}_ 1 {\color{green}g}_ 1 + {\color{teal}I}_ 2 {\color{green}g}_ 2 + ... {\color{teal}I}_ {\color{red}N} {\color{green}g}_ {\color{red}N})}{{\color{green}N}_ {\color{red}I}}$$
 
 mit
 
