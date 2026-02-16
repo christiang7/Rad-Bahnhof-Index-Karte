@@ -25,7 +25,7 @@ Zum jetzigen Zeitpunkt ist MMA als statisches Web-App abrufbar. Wir haben viele 
 
 ## Formel zur Indexberechnung
 
-Der Index wird durch einfache Prozentrechnung wie folgt berechnet:
+Der Index $\boldsymbol{\color{teal}I}$ wird durch einfache Prozentrechnung wie folgt berechnet:
 
 $\boldsymbol{\color{teal}I}$ - Index, $\boldsymbol{\color{gray}x}$ - Datenpunkt, $\boldsymbol{\color{green}M}$ - maximaler Wert der Datenreihe
 
