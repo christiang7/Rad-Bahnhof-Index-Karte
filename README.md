@@ -29,7 +29,7 @@ Der Index wird einfache Prozentrechnung wie folgt berechnet:
 
 ${\color{teal}I}$ - Index, ${\color{gray}x}$ - Datenpunkt, ${\color{green}M}$ - maximaler Wert der Datenreihe
 
-$$ {\color{teal}I} = \frac{{\color{gray}x}}{{\color{green}M}} .$$
+$$ \mathbf {\color{teal}I} = \frac{{\color{gray}x}}{{\color{green}M}} .$$
 
 Der Indexwert ${\color{teal}I}$ liegt zwischen $[0, 1]$, d.h. von $0$ bis $100$ Prozent. Maximalwert $1$ ist der Optimalwert und Minimalwert $0$ ist der schlechteste Wert. Bei Datenreihen, wo der maximale Wert, von der Interpretation her der schlechteste ist wie z.B. beim Diebstahl, haben wir die Datenpunkte umgekehrt berechnet:
 
