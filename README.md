@@ -17,7 +17,7 @@ MMA wirkt dabei in zwei Richtungen:
   c.	Verkehrssicherheit im Bahnhofsumfeld
 2.	Für Planung bietet sie gleichzeitig ein starkes Kommunikationstool und eine Checkliste, um Bahnhöfe noch radtauglicher zu machen.
 
-Ein Prototyp wurde entwickelt beim Rad-Daten-Hackathon im November 2025 in Potsdam, mit Unterstützung von DB InfraGO, die Landeshauptstadt Potsdam (Urbane Datenplatfform, Smart City sowie Radverkehrsplanung) und das Potsdam Lab.
+Ein Prototyp wurde entwickelt beim Rad-Daten-Hackathon im Oktober 2025 in Potsdam, mit Unterstützung von DB InfraGO, die Landeshauptstadt Potsdam (Urbane Datenplatfform, Smart City sowie Radverkehrsplanung) und das Potsdam Lab.
 
 Zum jetzigen Zeitpunkt ist MMA als statisches Web-App abrufbar. Wir haben viele Ideen zur Weiterentwicklung, und freuen uns über Unterstützung jeglicher Art bei der Weiterentwicklung!
 
