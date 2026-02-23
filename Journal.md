@@ -36,6 +36,8 @@
 
 ## Meetings 
 - 
+	- 2026-02-23 Meeting 14 Uhr
+		- 
 	- 2026-02-16 Meeting 14 Uhr am Montag
 		- Daten für Potsdam
 		- Plattform Themenkachel, urbane Plattform
