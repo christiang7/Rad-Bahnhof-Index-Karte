@@ -11,6 +11,7 @@ Doch wo fangen wir an umzusetzen - welche Daten und Informationen gibt es zu die
 
 MMA bietet Einsicht in konkrete Daten und Kriterien, um Radtauglichkeit von Bahnhöfen zu beurteilen und visualisiert diese. 
 MMA wirkt dabei in zwei Richtungen:
+
   1.	Für User bietet sie Informationen dazu, wie bequem die Multimodalität mit dem Rad für einen Bahnhof ist
     a.	Verfügbarkeit von Radstellplätzen
     b.	Verfügbarkeit von Aufzügen
