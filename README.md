@@ -45,7 +45,7 @@ Der Gesamtindex $\boldsymbol{{\color{teal}I}_ {\color{red}G}}$ sollte dann spät
 
 $\boldsymbol{{\color{green}g}_ {\color{red}k}}$ - Gewichtungsfaktoren
 
-$$\boldsymbol{ {\color{teal}I}_ {\color{red}G} = ({\color{teal}I}_ {1} {\color{green}g}_ 1 + {\color{teal}I}_ 2 {\color{green}g}_ 2 + ... + {\color{teal}I}_ {\color{red}N} {\color{green}g}_ {\color{red}N} }$$
+$$\boldsymbol{ {\color{teal}I}_ {\color{red}G} = {\color{teal}I}_ {1} {\color{green}g}_ 1 + {\color{teal}I}_ 2 {\color{green}g}_ 2 + ... + {\color{teal}I}_ {\color{red}N} {\color{green}g}_ {\color{red}N} }$$
 
 mit
 
