@@ -9,15 +9,15 @@ Allerdings ist Fahrradfahren hin und von Bahnhöfen nicht einwandfrei: ein chaot
 
 Doch wo fangen wir an umzusetzen - welche Daten und Informationen gibt es zu diesem Zweck, und welche brauchen wir eigentlich, damit ein Weg mit Rad und Bahn genau die richtige Art von Abenteuer ist?
 
-MMA bietet Einsichte in konkrete Daten und Kriterien, um Radtauglichkeit von Bahnhöfen zu beurteilen und visualisiert diese. 
+MMA bietet Einsicht in konkrete Daten und Kriterien, um Radtauglichkeit von Bahnhöfen zu beurteilen und visualisiert diese. 
 MMA wirkt dabei in zwei Richtungen:
-1.	Für User bietet sie Infos dazu, wie bequem die Multimodalität mit dem Rad für ein Bahnhof ist, u.a. durch Infos über:
-  a.	Verfügbarkeit von Radstellplätze
+1.	Für User bietet sie Informationen dazu, wie bequem die Multimodalität mit dem Rad für einen Bahnhof ist
+  a.	Verfügbarkeit von Radstellplätzen
   b.	Verfügbarkeit von Aufzügen
   c.	Verkehrssicherheit im Bahnhofsumfeld
 2.	Für Planung bietet sie gleichzeitig ein starkes Kommunikationstool und eine Checkliste, um Bahnhöfe noch radtauglicher zu machen.
 
-Ein Prototyp wurde entwickelt beim Rad-Daten-Hackathon im Oktober 2025 in Potsdam, mit Unterstützung von DB InfraGO, die Landeshauptstadt Potsdam (Urbane Datenplatfform, Smart City sowie Radverkehrsplanung) und das Potsdam Lab.
+Ein Prototyp wurde entwickelt beim Rad-Daten-Hackathon im Oktober 2025 in Potsdam, mit Unterstützung von DB InfraGO, die Landeshauptstadt Potsdam (Urbane Datenplattform, Smart City sowie Radverkehrsplanung) und das Potsdam Lab.
 
 Zum jetzigen Zeitpunkt ist MMA als statisches Web-App abrufbar. Wir haben viele Ideen zur Weiterentwicklung, und freuen uns über Unterstützung jeglicher Art bei der Weiterentwicklung!
 
