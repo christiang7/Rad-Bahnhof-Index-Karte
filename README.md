@@ -13,9 +13,9 @@ MMA bietet Einsicht in konkrete Daten und Kriterien, um Radtauglichkeit von Bahn
 MMA wirkt dabei in zwei Richtungen:
 
   1.	Für User bietet sie Informationen dazu, wie bequem die Multimodalität mit dem Rad für einen Bahnhof ist
-  a.	Verfügbarkeit von Radstellplätzen
-  b.	Verfügbarkeit von Aufzügen
-  c.	Verkehrssicherheit im Bahnhofsumfeld
+    - a.	Verfügbarkeit von Radstellplätzen
+    - b.	Verfügbarkeit von Aufzügen
+    - c.	Verkehrssicherheit im Bahnhofsumfeld
   2.	Für Planung bietet sie gleichzeitig ein starkes Kommunikationstool und eine Checkliste, um Bahnhöfe noch radtauglicher zu machen.
 
 Ein Prototyp wurde entwickelt beim Rad-Daten-Hackathon im Oktober 2025 in Potsdam, mit Unterstützung von DB InfraGO, die Landeshauptstadt Potsdam (Urbane Datenplattform, Smart City sowie Radverkehrsplanung) und das Potsdam Lab.
