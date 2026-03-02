@@ -36,8 +36,13 @@
 
 ## Meetings 
 - 
-	- 2026-02-23 Meeting 14 Uhr
-		- 
+	- 2026-03-02 Meeting 14:30 Uhr
+		- Suche jemanden der die Formel mitentwickelt
+		- Potsdam Lab kaum Kapazitäten für die Weiterentwicklung
+		- Malte LHP 
+		- Rad-Daten Index vorstellen als Mentoring Vortrag beim Hackathon in Berlin
+		- Daten für Potsdam
+		- Für **Potsdam den Index berechnen**
 	- 2026-02-16 Meeting 14 Uhr am Montag
 		- Daten für Potsdam
 		- Plattform Themenkachel, urbane Plattform
